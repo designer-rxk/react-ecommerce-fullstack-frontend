@@ -12,3 +12,5 @@
 * Install dependencies
 * Npm run dev
 * Check localhost ( http://localhost:3000/ )
+
+### Backend can be found ( https://github.com/designer-rxk/react-ecommerce-fullstack-backend )
